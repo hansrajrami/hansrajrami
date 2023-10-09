@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a blockchain expert with around three years of experience in building robust decentralized applications. I have worked on various industry use cases, including supply chain, finance, healthcare & real estate.
+I am a blockchain expert with around four and half years of experience in building robust decentralized applications. I have worked on various industry use cases, including supply chain, finance, healthcare & real estate.
 
 My blockchain experience includes:
 -	Hyperledger Fabric network setup and production deployment.
