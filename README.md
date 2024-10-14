@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Blockchain | DevOps | Cloud | Backend Development
 -------------------------------------------------
 
-I have in-depth architectural knowledge and a unique blend of skill sets including <b>Blockchain, Cloud, Backend, and DevOps</b>. I have <u>hands-on experience in developing, deploying, and managing decentralized & distributed applications, developing smart contracts and REST APIs, designing and customizing blockchain protocols, architecting cloud infrastructure, and DevOps</u>. I have also demonstrated leadership by guiding clients and blockchain teams from ideation to production. I have worked in various in various domains such as <b>supply chain, healthcare, NFTs, DAOs, and DeFi</b>. I am continuously exploring emerging technologies and their use cases in real life.
+I have in-depth architectural knowledge and a unique blend of skill sets including <ins>Blockchain, Cloud, Backend, and DevOps</ins>. I have <ins>hands-on experience in developing, deploying, and managing decentralized & distributed applications, developing smart contracts and REST APIs, designing and customizing blockchain protocols, architecting cloud infrastructure, and DevOps</ins>. I have also demonstrated leadership by guiding clients and blockchain teams from ideation to production. I have worked in various in various domains such as <ins>supply chain, healthcare, NFTs, DAOs, and DeFi</ins>. I am continuously exploring emerging technologies and their use cases in real life.
 
 *   🌍  I'm based in India
 *   🚀  I'm currently working on [SutR Blockchain as a Service](http://https://console.cloud.google.com/marketplace/product/chaincodeconsulting-llp-public/sutr)
