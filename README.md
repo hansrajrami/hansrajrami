@@ -6,8 +6,21 @@ Blockchain | DevOps | Cloud | Backend Development
 
 I have in-depth architectural knowledge and a unique blend of skill sets including <ins>Blockchain, Cloud, Backend, and DevOps</ins>. I have <ins>hands-on experience in developing, deploying, and managing decentralized & distributed applications, developing smart contracts and REST APIs, designing and customizing blockchain protocols, architecting cloud infrastructure, and DevOps</ins>. I have also demonstrated leadership by guiding clients and blockchain teams from ideation to production. I have worked in various in various domains such as <ins>supply chain, healthcare, NFTs, DAOs, and DeFi</ins>. I am continuously exploring emerging technologies and their use cases in real life.
 
-*   🌍  I'm based in India
 *   🚀  I'm currently working on [SutR Blockchain as a Service](http://https://console.cloud.google.com/marketplace/product/chaincodeconsulting-llp-public/sutr)
+
+My top projects are as follows
+
+[SutR Blockchain as a Service](http://https://console.cloud.google.com/marketplace/product/chaincodeconsulting-llp-public/sutr)
+SutR is Cloud agnostic Blockchain as a Service platform that helps clients build a Hyperledger Fabric network in a matter of minutes, all without the burdensome overhead of complex configurations. SutR's Blockchain as a Service (BaaS) platform simplifies the process, offering pluggable and modular solutions designed to seamlessly integrate with existing products. 
+
+[OBORTECH - Smart Logistics Hub](https://obortech.io)
+Obortech is a communication hub powered by blockchain and cloud that connects supply chain actors and enables them to share information, collaborate, conduct data analysis, and validate product traceability in real-time on a trusted platform.
+
+[AKcess Digital ID, Onboarding & Verification](https://akcess.io)
+AKcess provides digital identity management and eKYC solutions aimed at Financial Institutions (e.g. central, commercial, and online banks), SMEs, and other sectors such as Healthcare, Real Estate, and Education, via a private blockchain platform.
+
+[NFTtrace](https://nfttrace.com)
+NFTtrace is a Blockchain-powered Tokenization & Traceability platform that provides Provenance of Physical/Digital Assets on a need-to-know basis with the use of dynamic NFTs.
 
 <a href="https://www.github.com/hansrajrami" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/hansrajrami?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/hansraj_rami" target="_blank" rel="noreferrer"><img
