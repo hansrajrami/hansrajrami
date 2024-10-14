@@ -56,7 +56,7 @@ I have in-depth architectural knowledge and a unique blend of skill sets includi
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
     </a>
-      <a href="http://www.medium.com/hansrajrami" target="_blank" rel="noreferrer">
+      <a href="http://www.medium.com/@hansrajrami" target="_blank" rel="noreferrer">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
